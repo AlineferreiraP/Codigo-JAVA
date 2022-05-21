@@ -2,7 +2,7 @@
 # Codigo-JAVA
 Básico 
 ## Projeto Senac  
-Enunciaddo:
+Enunciado:
 Escreva um programa em Java que leia uma sequência N de números inteiros
 (negativos, positivos e o zero) para um vetor. No início do programa é solicitado ao
 usuário (pelo teclado) qual é a quantidade de elementos que serão lidos para o vetor
